@@ -1,11 +1,11 @@
 
 
+
 > **End-to-end automated pipeline:** A Git push triggers a full build, static analysis, Docker image publish, and GitOps deployment to a Kubernetes cluster — all running on AWS EC2.
 
 ---
 
-
-
+<img width="1392" height="1700" alt="Screenshot 2026-04-15 133222" src="https://github.com/user-attachments/assets/a5f976d1-b8a9-415d-8164-89852c227020" />
 
 ## Table of Contents
 
